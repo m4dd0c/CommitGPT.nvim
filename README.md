@@ -1,1 +1,1 @@
-CommitGPT.nvim
+# CommitGPT.nvim
